@@ -1,3 +1,22 @@
-.dean{
-    background-color: white;
+body{
+    background-color: black;
+}
+.title {
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+.row {
+    display: flex;
+    justify-content: center;
+}
+.coloumn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+button {
+    width: 16vw;
+    height: 20vh;
 }

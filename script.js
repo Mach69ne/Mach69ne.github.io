@@ -1,0 +1,1 @@
+const bodyContainer = document.getElementById("body");
